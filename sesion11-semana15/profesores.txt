@@ -1,0 +1,13 @@
+Juan,Lapa,53,50,8558
+Karla,Chavez,94,71,7867
+Luisa,Mendes,47,56,5713
+Lucia,Chavez,66,61,9959
+Kylie,Saavedra,26,58,6609
+Pepe,Quispe,37,48,9863
+Luisa,Lozano,63,71,8157
+Karla,Chavez,64,70,5308
+Karla,Chavez,9,72,9118
+Juan,Perez,15,75,6667
+Miguel,Aguirre,69,79,7021
+Kylie,Quispe,88,34,7854
+Juan,Lozano,56,42,5369

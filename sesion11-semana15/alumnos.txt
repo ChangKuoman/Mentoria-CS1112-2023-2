@@ -1,0 +1,7 @@
+Miguel,Vera,75,28,6
+Lucia,Vera,71,38,8
+Miguel,Vera,59,26,7
+Lucia,Perez,24,22,8
+Ana,Contreras,59,35,1
+Karla,Lapa,1,27,5
+Karla,Quispe,83,33,8
